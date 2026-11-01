@@ -56,7 +56,7 @@ cd ~/projects/cubesat-ml-bootcamp
 If you have not cloned the repository yet, replace the placeholder:
 
 ``` bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/ashtosh-dev/cubesat-ml-bootcamp.git
 cd cubesat-ml-bootcamp
 ```
 
